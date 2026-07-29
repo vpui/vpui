@@ -1,34 +1,36 @@
-<div style="text-align: center;">
-  <!-- Hero Image -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="Welcome animation" />
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome" />
   
-  <!-- Social Links -->
-  <div style="margin: 20px 0;">
-    <a href="https://youtube.com/your-channel" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
-    </a>
-    <a href="https://twitter.com/your-handle" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
-    </a>
-  </div>
+  # Hey there 👋
   
-  <!-- Profile Views -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vpui.vpui" alt="Profile views" />
+  I'm **vpui** from Poland
+  
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/your-channel)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-handle)
+  
+  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vpui.vpui)
 </div>
 
-<h1 style="text-align: center; margin-top: 30px;">Hey there 👋</h1>
+---
 
-<h2 style="margin-top: 30px;">👩‍💻 About Me</h2>
+## 👩‍💻 About Me
 
-<p>
-  I'm <strong>vpui</strong> from Poland.
-</p>
+I'm a passionate developer focused on creating secure and efficient solutions.
 
-<ul>
-  <li>📚 Currently learning <strong>Cybersecurity</strong></li>
-  <li>⚡ Passionate about learning new technologies and continuously improving my skills</li>
-</ul>
+- 📚 **Currently learning:** Cybersecurity
+- ⚡ **Passionate about:** New technologies and continuous improvement
+- 🔒 **Interested in:** Secure code practices and system architecture
 
-<div style="text-align: center; margin: 40px 0;">
-  <img src="https://i.pinimg.com/1200x/81/20/14/8120143659a8de4c7c4a9813937dbada.jpg" height="220" alt="GitHub streak graph" />
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/81/20/14/8120143659a8de4c7c4a9813937dbada.jpg" width="400" alt="GitHub streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by vpui</p>
 </div>
