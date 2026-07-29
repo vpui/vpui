@@ -34,7 +34,6 @@ I'm a **passionate developer** focused on cybersecurity and building secure solu
 ## 🛠️ Tech Stack
 
 ### Security & Networking
-![Parrot OS](https://www.clipartmax.com/png/middle/257-2578920_parrot-linux-logo.png)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-EC1C24?style=for-the-badge&logoColor=white)
 
@@ -46,12 +45,6 @@ I'm a **passionate developer** focused on cybersecurity and building secure solu
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🔥 Currently Working On
-
-- 🔒 
 
 ---
 
