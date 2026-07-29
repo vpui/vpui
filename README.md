@@ -34,7 +34,7 @@ I'm a **passionate developer** focused on cybersecurity and building secure solu
 ## 🛠️ Tech Stack
 
 ### Security & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS]([https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbSp0qWtfY1aAByGMhWpIdCKsNf9MW3FUDlu_5pXhr3ax5aAZJ6-wbSE&s=10))
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-EC1C24?style=for-the-badge&logoColor=white)
 
@@ -45,28 +45,13 @@ I'm a **passionate developer** focused on cybersecurity and building secure solu
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![vpui's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpui&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpui&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
 
 ---
 
 ## 🔥 Currently Working On
 
-- 🔒 Building a **network traffic analyzer** for security audits
-- 🛡️ Developing **vulnerability scanner** tools
-- 📚 Creating **cybersecurity learning resources**
+- 🔒 
 
 ---
 
