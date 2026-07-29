@@ -1,35 +1,47 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif"/>
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm VPUI</h1>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<h3 align="center">Cybersecurity Learner from Poland 🇵🇱</h3>
+
+<p align="center">
+I'm currently learning <b>Cybersecurity</b> and enjoy exploring new technologies while continuously improving my skills.
+</p>
+
+<div align="center">
+  <a href="https://youtube.com/yourchannel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </div>
 
-###
+<br>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"/>
 </div>
 
-###
+---
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+## 🧑‍💻 About Me
 
-###
+- 🇵🇱 Based in Poland
+- 📚 Currently learning Cybersecurity
+- 🚀 Passionate about technology and self-improvement
+- ⚡ Always exploring new tools and technologies
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<p data-importer="text" align="left">I'm vpui from Poland.<br><br>- 📚 I'm currently learning Cybersecurity.<br>- ⚡ I enjoy learning new technologies and continuously improving my skills in my free time.</p>
-
-
-<div data-importer="stats" align="center">
-  <img src="https://i.pinimg.com/1200x/81/20/14/8120143659a8de4c7c4a9813937dbada.jpg" height="220" alt="streak graph"  />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
