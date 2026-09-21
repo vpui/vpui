@@ -1,53 +1,63 @@
-<div align="center">
+# vpui
 
-# 🔍 Hey there, I'm vpui
-
-**Aspiring QA Tester | Manual Testing | Poland**
+**Cybersecurity · C · Linux · Poland**
 
 </div>
 
 ---
 
+## About
+
+I'm at the beginning of my journey in IT and cybersecurity.
+
+At the moment, I'm learning **C** from the fundamentals and building a stronger understanding of how software, operating systems and computers work.
+
+My long-term direction is **offensive security and penetration testing**. I'm taking the time to build the fundamentals first rather than rushing into advanced topics.
+
+I use this GitHub to document what I actually learn and build along the way.
+
+---
+
+## Currently Learning
+
+**C**  
+Learning programming from the ground up and getting a better understanding of how programs work at a lower level.
+
+**Linux**  
+Building practical experience with Linux, the command line and basic system administration.
+
+**Cybersecurity**  
+Learning the fundamentals of information security and gradually exploring offensive security.
+
+---
+
+## What You'll Find Here
+
+This profile will contain the things I actually work on during my learning process:
+
+- C exercises and small programs
+- Linux experiments
+- Cybersecurity labs and write-ups
+- Technical notes
+- Personal projects
+
+The repositories will grow as my skills do.
+
+---
+
+## Direction
+
+My current path is focused on building a solid technical base and progressing toward:
+
+**C → Linux → IT & networking fundamentals → cybersecurity → penetration testing → offensive security**
+
+This is a long-term goal, not a claim of current professional experience.
+
+---
+
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@zerozaufania)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/sclxm)
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vpui.vpui&style=flat)
+[YouTube](https://www.youtube.com/@zerozaufania) · [X](https://x.com/sclxm)
 
 </div>
-
----
-
-## 🧪 About Me
-
-I'm working toward a career as a **QA Tester**, focused on manual testing. I like methodical, detail-oriented work — finding what's broken and explaining it clearly enough that someone else can fix it fast.
-
-- 🎯 **Currently learning:** manual testing fundamentals, test case design, bug tracking
-- 🐞 **Building:** test plans and bug reports for demo apps, as portfolio pieces
-- 🧠 **Interested in:** exploratory testing, API testing, QA processes
-- 📬 **Open to:** entry-level / junior QA opportunities
-
----
-
-## 🛠️ Tools & Skills
-
-### Testing Fundamentals
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge)
-![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-4CAF50?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-4CAF50?style=for-the-badge)
-
-### Tools & Platforms
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-<div align="center">
-
-**Made by vpui**
-
-*"Quality is not an act, it is a habit."*
-
-</div>
+:::
