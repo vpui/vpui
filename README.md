@@ -2,9 +2,9 @@
 
 # 🔍 Hey, I'm vpui
 
-**Aspiring QA Tester | Manual Testing | API Testing | Poland**
+**Aspiring Cybersecurity Professional | Learning C | Poland**
 
-I’m building my skills in **software testing**, with a focus on finding defects, documenting them clearly, and understanding how software behaves from a user's perspective.
+I’m currently building my foundations in **IT and cybersecurity**, with a long-term focus on **offensive security and penetration testing**.
 
 </div>
 
@@ -21,93 +21,82 @@ I’m building my skills in **software testing**, with a focus on finding defect
 
 ---
 
-## 🧪 About Me
+## 🧠 About Me
 
-I’m currently developing my skills toward a career in **Quality Assurance and software testing**.
+I’m starting my journey in **cybersecurity and IT**, currently focusing on building strong technical fundamentals before moving into more advanced areas.
 
-I enjoy structured, analytical work and paying attention to details that are easy to overlook. My approach is simple: **reproduce the problem, understand it, document it clearly, and make it easier to fix.**
+My main long-term goal is to work in **offensive security / penetration testing**.
 
-My current focus is on building a solid foundation in manual testing and gradually moving into more technical areas of QA.
+Right now, I’m focused on understanding how computers, operating systems, networks and software work at a fundamental level.
 
-### 🎯 Currently Learning
-
-* Manual testing fundamentals
-* Test case design and execution
-* Bug reporting and defect analysis
-* Exploratory testing
-* API testing
-* HTTP fundamentals
-* Basic SQL
-* Git and GitHub workflows
-
-### 🐞 What I'm Building
-
-I use demo applications and testing environments to create practical portfolio projects, including:
-
-* Test cases
-* Test scenarios
-* Bug reports
-* Test plans
-* Exploratory testing notes
-* API testing collections
-
-The goal is to build a portfolio based on **actual testing work rather than only theory**.
+I prefer learning through a combination of **theory, practical exercises, notes and hands-on labs** rather than simply memorizing commands.
 
 ---
 
-## 🛠️ Skills & Tools
+## 📚 Currently Learning
 
-### Testing
+### Programming
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test%20Case%20Design-4CAF50?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-4CAF50?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-4CAF50?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-### Tools
+Currently learning **C from the fundamentals**.
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+I do **not** currently claim knowledge of other programming languages.
+
+### Cybersecurity & IT
+
+* Linux fundamentals
+* Computer and operating system fundamentals
+* Networking fundamentals
+* Cybersecurity fundamentals
+* Introduction to penetration testing
+* Practical security labs
+
+---
+
+## 🎯 Long-Term Direction
+
+My current learning path is focused on building the foundations necessary for offensive security:
+
+**IT Fundamentals → Linux → Networking → Programming → Security Fundamentals → Penetration Testing**
+
+The goal is to develop real technical understanding and gradually progress from beginner-level labs to more advanced security research and penetration testing.
+
+---
+
+## 🛠️ Current Tools & Environment
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### Technical Foundations
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-F5A623?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
+I use GitHub to document my learning, experiments, notes and practical cybersecurity projects.
 
 ---
 
-## 📂 Portfolio
+## 📂 What You'll Find Here
 
-I’m building my GitHub around practical QA projects.
+This profile will gradually contain:
 
-**Planned / ongoing projects:**
-
-* 🧪 Manual testing of web applications
-* 🐞 Structured bug reports
-* 📋 Test case collections
-* 🔌 API testing with Postman
-* 🗄️ SQL-based data validation
-* 📊 End-to-end testing documentation
+* C learning projects
+* Cybersecurity labs and write-ups
+* Linux-related notes
+* Networking and IT exercises
+* Penetration testing practice
+* Personal experiments and technical documentation
 
 ---
 
-## 📈 Learning Path
+## 📈 Current Focus
 
-**Manual Testing → API Testing → SQL → Technical QA → Automation**
+**Learn the fundamentals. Understand how things work. Build practical skills.**
 
-I’m focusing on understanding **why a test works and what it proves**, rather than simply collecting tools and technologies.
+I’m currently at the beginning of this path and documenting the process as I progress.
 
 ---
 
 <div align="center">
 
-### 📬 Open to Entry-Level QA Opportunities
-
 **Made by vpui**
-
-*"Quality is not an act, it is a habit."*
 
 </div>
