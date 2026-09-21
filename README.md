@@ -1,73 +1,53 @@
 <div align="center">
 
-# 👋 Hey, I'm vpui
+# 🔍 Hey there, I'm vpui
 
-### Learning C • Exploring Cybersecurity • Poland
-
-I'm currently learning **C** and building my foundations in **IT and cybersecurity**.
-
-My long-term goal is to work in **offensive security and penetration testing**.
+**Aspiring QA Tester | Manual Testing | Poland**
 
 </div>
 
 ---
 
-## About Me
-
-I'm at the beginning of my technical journey.
-
-Right now, I'm mainly focused on understanding the fundamentals instead of trying to learn everything at once. I'm learning how software works, getting comfortable with Linux and building my first programming foundations with C.
-
-I don't have professional experience in IT or cybersecurity yet. This profile is simply a place to track my progress and build things as I learn.
-
----
-
-## Currently Learning
-
 <div align="center">
 
-### C
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@zerozaufania)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/sclxm)
 
-Learning programming from the ground up with a focus on understanding how things work rather than just memorizing syntax.
-
-### Linux
-
-Getting comfortable with the command line, system basics and working in a Linux environment.
-
-### Cybersecurity
-
-Building the fundamentals first and gradually moving toward offensive security and penetration testing.
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vpui.vpui&style=flat)
 
 </div>
 
 ---
 
-## What I'm Building
+## 🧪 About Me
 
-This GitHub will gradually become a collection of things I've actually worked on:
+I'm working toward a career as a **QA Tester**, focused on manual testing. I like methodical, detail-oriented work — finding what's broken and explaining it clearly enough that someone else can fix it fast.
 
-* C exercises and small programs
-* Learning projects
-* Cybersecurity labs and write-ups
-* Linux experiments
-* Notes and technical documentation
-* Personal projects
-
-Nothing here is presented as professional experience. Everything is part of the learning process.
+- 🎯 **Currently learning:** manual testing fundamentals, test case design, bug tracking
+- 🐞 **Building:** test plans and bug reports for demo apps, as portfolio pieces
+- 🧠 **Interested in:** exploratory testing, API testing, QA processes
+- 📬 **Open to:** entry-level / junior QA opportunities
 
 ---
 
-## Outside GitHub
+## 🛠️ Tools & Skills
 
-I also create content about **cybersecurity, technology, science and interesting topics**.
+### Testing Fundamentals
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-4CAF50?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-4CAF50?style=for-the-badge)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white\&style=for-the-badge)](https://www.youtube.com/@zerozaufania)
-[![X](https://img.shields.io/badge/X-000000?logo=x\&logoColor=white\&style=for-the-badge)](https://x.com/sclxm)
+### Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 <div align="center">
 
-**Learning from the ground up.**
+**Made by vpui**
+
+*"Quality is not an act, it is a habit."*
 
 </div>
