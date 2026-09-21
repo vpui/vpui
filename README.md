@@ -42,26 +42,6 @@ Building the fundamentals first and gradually moving toward offensive security a
 
 ---
 
-## My Direction
-
-```text
-IT Fundamentals
-      ↓
-    Linux
-      ↓
-   C / Programming
-      ↓
-Cybersecurity Fundamentals
-      ↓
-Penetration Testing
-      ↓
-Offensive Security
-```
-
-This is a long-term path. For now, I'm focused on getting the foundations right.
-
----
-
 ## What I'm Building
 
 This GitHub will gradually become a collection of things I've actually worked on:
