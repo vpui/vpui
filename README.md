@@ -18,8 +18,6 @@ I'm at the beginning of my technical journey.
 
 Right now, I'm mainly focused on understanding the fundamentals instead of trying to learn everything at once. I'm learning how software works, getting comfortable with Linux and building my first programming foundations with C.
 
-I document what I learn here through small projects, exercises, notes and experiments.
-
 I don't have professional experience in IT or cybersecurity yet. This profile is simply a place to track my progress and build things as I learn.
 
 ---
