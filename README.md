@@ -28,15 +28,9 @@ C · Assembly · Linux · Bash · Reverse Engineering · Penetration Testing · 
 
 ---
 
-## Featured Projects
-
-- [Project Name](https://github.com/username/project) — Brief description of what it does
-
----
-
 ## Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpui&show_icons=true&theme=transparent&hide_border=true)](https://github.com/vpui)
 
 ---
 
