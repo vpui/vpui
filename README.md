@@ -24,7 +24,7 @@ Outside of programming and security, I spend a lot of time exploring technology,
 
 ## Skills
 
-C · Assembly · Linux · Bash · Reverse Engineering · Penetration Testing · System Programming
+C · Linux · Bash · Reverse Engineering · Penetration Testing 
 
 ---
 
